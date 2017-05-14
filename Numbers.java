@@ -2,7 +2,6 @@
  * This program creates a user array. Lets the user enter the array length, and the values
  * for the array. Then the array is printed, as well as the average, max and min of the array.
  */
-
 import java.util.Arrays;
 import java.util.Scanner;
 public class Numbers {
